@@ -1,9 +1,4 @@
 
-//     	"product_design",
-//     	"web_design"
-//   	]
-// 	}
-//   ]
 
 import React from "react";
 import Box from "@mui/material/Box";
